@@ -1,9 +1,9 @@
 {
-  "name": "contactbook-backend0",
+  "name": "contactbook-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "scripts": {
+  "script": {
     "start": "nodemon server.js"
   },
   "author": "Hua Anh Thu",
